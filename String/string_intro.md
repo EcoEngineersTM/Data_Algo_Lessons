@@ -106,3 +106,8 @@ the Rabin–Karp algorithm or Karp–Rabin algorithm is a string-searching algor
 <https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/>
 
 Given a text txt[0..n-1] and a pattern pat[0..m-1], write a function search(char pat[], char txt[]) that prints all occurrences of pat[] in txt[]. You may assume that n > m.
+
+# Prefix Match
+
+# Trie
+- data structure which looks like Tree except data stured in edges not node.
