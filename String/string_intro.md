@@ -12,7 +12,7 @@
 
 ## KMP
 
-## Rabin Karp
+## Rabin–Karp algorithm
 
 
 # Easy Questions
@@ -89,3 +89,11 @@ Time: O(n^2)
 
 ### Method 2: Sliding Window
 - checking contiguous sub-array or sub-strings
+
+
+# Sliding Window
+
+Rabin-Karp Algorithm for Pattern Searching
+<https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/>
+
+the Rabin–Karp algorithm or Karp–Rabin algorithm is a string-searching algorithm created by Richard M. Karp and Michael O. Rabin (1987) that uses hashing to find an exact match of a pattern string in a text. It uses a rolling hash to quickly filter out positions of the text that cannot match the pattern, and then checks for a match at the remaining positions. Generalizations of the same idea can be used to find more than one match of a single pattern, or to find matches for more than one pattern.
