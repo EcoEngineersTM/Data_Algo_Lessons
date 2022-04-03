@@ -1,3 +1,20 @@
+# String Topics
+
+## Mutable vs Immutable
+
+## Library Function
+
+## Tries
+
+## Suffix Trie
+
+## SubStrings 
+
+## KMP
+
+## Rabin Karp
+
+
 # Easy Questions
 
 ## Reverse a String
@@ -62,3 +79,13 @@ Algorithm 2
 
 1. create two pointers in median & median + 1
 2. compare
+
+
+## Substring Match Questions
+Given String & Sub, check if Sub is substring of String
+
+### Method 1:Enumeration (Check all possibility)
+Time: O(n^2)
+
+### Method 2: Sliding Window
+- checking contiguous sub-array or sub-strings
