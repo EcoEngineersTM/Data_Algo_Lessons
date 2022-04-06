@@ -7,15 +7,19 @@
 - cycle sort
 
 Two Ways to Solve: Decrease & Conquer
-1. Strategy:
+- Strategy One:
  - Decrease One Problem at a time
  - Recursion
 
     Algorithms
 1. work on left first element
+2. Recurse right
 
-
-2. Strategy:
+- Strategy Two:
+    
+    Algo
+1. Recurse 
+2. work on leftmost element
 
 
 ## Divide and Conq:
@@ -32,4 +36,6 @@ ex) Hanoi, pancake question
 
 ## Cycle Sort
 - LeetCode: 268, 448, 287, 645, 442, 41, 765
-- 
+
+Template
+```
